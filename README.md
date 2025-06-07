@@ -4,7 +4,13 @@ Computer Science (AI & ML) Student
 ✉️ contact.sahilkumar969@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kumar-11731b28a) | 💻 [GitHub](https://github.com/sahilgupta969)
 
-
+**TECHNICAL SKILLS**  
+- **Languages**: Python, C++, C, Dart  
+- **AI/ML**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV  
+- **Mobile**: Flutter  
+- **Web**: HTML, CSS  
+- **Databases**: Oracle, SQLite  
+- **Tools**: Git, VS Code, Jupyter Notebook  
 
 **PROJECTS**  
 
