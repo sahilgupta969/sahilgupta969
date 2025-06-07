@@ -1,4 +1,4 @@
-**Sahil Kumar**  
+jij**Sahil Kumar**  
 Computer Science (AI & ML) Student  
 📍 Danapur Cantt, Patna |
 ✉️ contact.sahilkumar969@gmail.com  
@@ -12,6 +12,18 @@ Computer Science (AI & ML) Student
 - **Databases**: Oracle, SQLite  
 - **Tools**: Git, VS Code, Jupyter Notebook  
 
+
+**EDUCATION**  
+**B.Tech in Computer Science (AI & ML)**  
+IES College of Technology, Bhopal | 2022-2026  
+- Current CGPA: 7.5/10  
+- Relevant Coursework: Machine Learning, Deep Learning, DBMS, Cloud Computing  
+
+**Senior Secondary (XII)**  
+RPS College, Patna | 2020-2022 | 63%  
+
+**High School (X)**  
+Gyanodya Gurukul School, Patna | 2019-2020 | 73%  
 **PROJECTS**  
 
 **CyberQuiz | Flutter, Dart**  
