@@ -1,57 +1,97 @@
-**Sahil Kumar**  
-Computer Science (AI & ML) Student  
-📍 Danapur Cantt, Patna |
-✉️ contact.sahilkumar969@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kumar-11731b28a) | 💻 [GitHub](https://github.com/sahilgupta969)
+<h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
+<h3 align="center">AI/ML Developer | Flutter Specialist | Research Enthusiast</h3>
 
-**TECHNICAL SKILLS**  
-- **Languages**: Python, C++, C, Dart  
-- **AI/ML**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV  
-- **Mobile**: Flutter  
-- **Web**: HTML, CSS  
-- **Databases**: Oracle, SQLite  
-- **Tools**: Git, VS Code, Jupyter Notebook  
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-kumar-11731b28a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:contact.sahilkumar969@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://github.com/sahilgupta969">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
+---
 
-**EDUCATION**  
-**B.Tech in Computer Science (AI & ML)**  
-IES College of Technology, Bhopal | 2022-2026  
-- Current CGPA: 7.5/10  
-- Relevant Coursework: Machine Learning, Deep Learning, DBMS, Cloud Computing  
+## 🔧 Technical Skills
+
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+### 🤖 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### 💻 Other Technologies
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### CyberQuiz - Cybersecurity Assessment Platform
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+- Gamified quiz app with 50+ vulnerability scenarios
+- Real-time scoring dashboard with performance analytics
+- Increased user engagement by 40% through interactive modules
+
+### CNN Image Classifier - Animal Recognition
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
+- 92% accurate CNN model for animal classification
+- Optimized preprocessing pipeline with OpenCV
+- 30% inference speed improvement via model quantization
+
+### AgriSmart - Crop Recommendation System
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+- ML model with 85% accuracy predicting optimal crops
+- Integrated soil sensors and weather API data
+- CLI tool deployed for local farming communities
+
+---
+
+## 📚 Education
+
+**B.Tech Computer Science (AI & ML)**  
+`2022-2026` | IES College of Technology, Bhopal  
+> CGPA: 7.5/10 | Specialized in Deep Learning & Cloud Computing  
 
 **Senior Secondary (XII)**  
-RPS College, Patna | 2020-2022 | 63%  
+`2020-2022` | RPS College, Patna | 63%  
 
 **High School (X)**  
-Gyanodya Gurukul School, Patna | 2019-2020 | 73%  
-**PROJECTS**  
+`2019-2020` | Gyanodya Gurukul School, Patna | 73%  
 
-**CyberQuiz | Flutter, Dart**  
-- Developed gamified cybersecurity quiz app with 50+ questions  
-- Implemented real-time scoring and progress tracking  
-- Increased user engagement by 40% through interactive modules  
+---
 
-**Cat/Dog Image Classifier | CNN, TensorFlow**  
-- Built CNN model achieving 92% accuracy on test dataset  
-- Optimized image preprocessing pipeline using OpenCV  
-- Reduced inference time by 30% through model quantization  
+## 🏆 Achievements
+- **Published Researcher**: IEEE Conference Paper on Beach Suitability Analysis  
+  [![IEEE](https://img.shields.io/badge/IEEE-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/XXXXXXX)
+- **Hackathon Finalist**: Top 10 in National IoT Hackathon @ MANIT 2023  
+- **AICTE Recognition**: IDE Bootcamp Finalist 2023
+- **Generative AI**: LinkedIn Learning Specialization (2024)
 
-**Crop Recommendation System | Python, Scikit-learn**  
-- Engineered ML model predicting optimal crops with 85% accuracy  
-- Integrated soil NPK sensor data and weather API inputs  
-- Deployed as CLI tool for farmers in local communities
+---
 
-**CERTIFICATIONS**  
-- Generative AI Specialization - LinkedIn Learning | 2024  
-- Machine Learning Internship - IGDTUW | Summer 2023  
-- Power BI Analytics - Coding Thinker | 2023  
-- IoT Certification - MANIT & Indeyes Infotech | 2023  
+## 📌 Summary  
+AI/ML developer with 2+ years experience building production-ready models and cross-platform applications. Proven expertise in TensorFlow ecosystem and Flutter development. Published researcher seeking challenging roles in **AI Engineering** or **Full-stack Development**. Passionate about creating impactful solutions through intelligent systems.
 
-**ACHIEVEMENTS**  
-- Published IEEE paper on mobile app for beach suitability analysis  
-  [DOI Link](https://ieeexplore.ieee.org/document/XXXXXXX)  
-- Top 10 in national IoT hackathon (MANIT 2023)  
-- IDE Bootcamp finalist (AICTE)
-
-  **SUMMARY**  
-AI-focused Computer Science student with 2+ years of hands-on experience developing machine learning models and cross-platform mobile applications. Proven ability to design solutions using Python (TensorFlow, Keras) and Flutter, with research published at IEEE conference. Seeking roles in AI engineering or full-stack development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilgupta969&label=Profile+Views&color=blue&style=flat" alt="Profile views">
+</p>
