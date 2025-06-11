@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
-<h3 align="center">AI/ML Developer | Flutter App Developer| Research Enthusiast</h3>
+<h3 align="center">AI/ML Developer | Flutter Specialist | Research Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-kumar-11731b28a">
@@ -50,6 +50,10 @@
 - Real-time scoring dashboard with performance analytics
 - Increased user engagement by 40% through interactive modules
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/cyberquiz-demo.gif" alt="CyberQuiz Demo" width="300">
+</p>
+
 ### CNN Image Classifier - Animal Recognition
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
@@ -57,12 +61,21 @@
 - Optimized preprocessing pipeline with OpenCV
 - 30% inference speed improvement via model quantization
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/classifier-results.png" alt="Classification Results" width="45%">
+  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/model-training.png" alt="Model Training" width="45%">
+</div>
+
 ### AgriSmart - Crop Recommendation System
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 - ML model with 85% accuracy predicting optimal crops
 - Integrated soil sensors and weather API data
 - CLI tool deployed for local farming communities
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/crop-recommendation.gif" alt="Crop Recommendation Demo" width="500">
+</p>
 
 ---
 
@@ -94,4 +107,5 @@ AI/ML developer with 2+ years experience building production-ready models and cr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilgupta969&label=Profile+Views&color=blue&style=flat" alt="Profile views">
+  <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="Coding time">
 </p>
