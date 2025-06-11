@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
-<h3 align="center">AI/ML Developer | Flutter Specialist | Research Enthusiast</h3>
+<h3 align="center">AI/ML Developer | Flutter App Developer| Research Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-kumar-11731b28a">
