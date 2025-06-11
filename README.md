@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/model-training.png" alt="Model Training" width="45%">
 </div>
 
-### AgriSmart - Crop Recommendation System
+### FarmerFriend - Crop Recommendation System
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 - ML model with 85% accuracy predicting optimal crops
