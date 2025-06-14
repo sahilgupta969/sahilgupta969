@@ -1,7 +1,19 @@
 <h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Machine+Learning+Engineer;Flutter+Developer;IEEE+Published+Researcher;AI+Solutions+Architect" alt="Typing Animation" />
+</p>
 <h3 align="center">AI/ML Developer | Flutter Specialist | Research Enthusiast</h3>
 
 <p align="center">
+  <a href="https://leetcode.com/yourusername/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode">
+</a>
+<a href="https://www.hackerrank.com/profile/yourusername">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black&style=for-the-badge" alt="HackerRank">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/yourusername">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks">
+</a>
   <a href="https://linkedin.com/in/sahil-kumar-11731b28a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
@@ -14,6 +26,10 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta969&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Language Graph" />
+</div>
 
 ## 🔧 Technical Skills
 
@@ -46,9 +62,8 @@
 ### CyberQuiz - Cybersecurity Assessment Platform
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-- Gamified quiz app with 50+ vulnerability scenarios
+- Gamified quiz app 
 - Real-time scoring dashboard with performance analytics
-- Increased user engagement by 40% through interactive modules
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/cyberquiz-demo.gif" alt="CyberQuiz Demo" width="300">
@@ -59,7 +74,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
 - 92% accurate CNN model for animal classification
 - Optimized preprocessing pipeline with OpenCV
-- 30% inference speed improvement via model quantization
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/classifier-results.png" alt="Classification Results" width="45%">
@@ -70,8 +84,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 - ML model with 85% accuracy predicting optimal crops
-- Integrated soil sensors and weather API data
-- CLI tool deployed for local farming communities
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/crop-recommendation.gif" alt="Crop Recommendation Demo" width="500">
@@ -95,17 +107,13 @@
 
 ## 🏆 Achievements
 - **Published Researcher**: IEEE Conference Paper on Beach Suitability Analysis  
-  [![IEEE](https://img.shields.io/badge/IEEE-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/XXXXXXX)
-- **Hackathon Finalist**: Top 10 in National IoT Hackathon @ MANIT 2023  
-- **AICTE Recognition**: IDE Bootcamp Finalist 2023
+  [![IEEE](https://img.shields.io/badge/IEEE-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/XXXXXXX)  
+- **AICTE Recognition**: IDE Bootcamp 
 - **Generative AI**: LinkedIn Learning Specialization (2024)
 
 ---
 
 ## 📌 Summary  
-AI/ML developer with 2+ years experience building production-ready models and cross-platform applications. Proven expertise in TensorFlow ecosystem and Flutter development. Published researcher seeking challenging roles in **AI Engineering** or **Full-stack Development**. Passionate about creating impactful solutions through intelligent systems.
+AI/ML developer building production-ready models and cross-platform applications. Proven expertise in TensorFlow ecosystem and Flutter development. Published researcher seeking challenging roles in **AI Engineering** or **Full-stack Development**. Passionate about creating impactful solutions through intelligent systems.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilgupta969&label=Profile+Views&color=blue&style=flat" alt="Profile views">
-  <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="Coding time">
-</p>
+
