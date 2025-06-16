@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Machine+Learning+Engineer;Flutter+Developer;IEEE+Published+Researcher;AI+Solutions+Architect" alt="Typing Animation" />
 </p>
-<h3 align="center">AI/ML Developer | Flutter Specialist | Research Enthusiast</h3>
+<h3 align="center">AI/ML Developer | Flutter Developer| Research Enthusiast</h3>
 
 <p align="center">
   <a href="https://leetcode.com/yourusername/">
@@ -28,7 +28,7 @@
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta969&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="Language Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta969&layout=compact&theme=radical&hide_border=true&langs_count=10" height="165" alt="Language Graph" />
 </div>
 
 ## 🔧 Technical Skills
