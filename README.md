@@ -57,39 +57,6 @@
 
 ---
 
-## 🚀 Projects
-
-### CyberQuiz - Cybersecurity Assessment Platform
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-- Gamified quiz app 
-- Real-time scoring dashboard with performance analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/cyberquiz-demo.gif" alt="CyberQuiz Demo" width="300">
-</p>
-
-### CNN Image Classifier - Animal Recognition
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
-- 92% accurate CNN model for animal classification
-- Optimized preprocessing pipeline with OpenCV
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/classifier-results.png" alt="Classification Results" width="45%">
-  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/model-training.png" alt="Model Training" width="45%">
-</div>
-
-### FarmerFriend - Crop Recommendation System
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-- ML model with 85% accuracy predicting optimal crops
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilgupta969/your-repo/main/screenshots/crop-recommendation.gif" alt="Crop Recommendation Demo" width="500">
-</p>
-
----
 
 ## 📚 Education
 
