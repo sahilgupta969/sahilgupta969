@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/profile/yourusername">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black&style=for-the-badge" alt="HackerRank">
 </a>
-<a href="https://auth.geeksforgeeks.org/user/yourusername">
+<a href="https://www.geeksforgeeks.org/user/sahilgupta969/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks">
 </a>
   <a href="https://linkedin.com/in/sahil-kumar-11731b28a">
