@@ -5,10 +5,10 @@
 <h3 align="center">AI/ML Developer | Flutter Developer| Research Enthusiast</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername/">
+  <a href="https://leetcode.com/u/Sahilgupta969/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode">
 </a>
-<a href="https://www.hackerrank.com/profile/yourusername">
+<a href="https://www.hackerrank.com/profile/sahilkumae938">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black&style=for-the-badge" alt="HackerRank">
 </a>
 <a href="https://www.geeksforgeeks.org/user/sahilgupta969/">
